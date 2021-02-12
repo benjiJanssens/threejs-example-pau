@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/example.gif" />
+</p>
+
 # three-js-example-pau
 
 This is an example of Three.js using Pàu's branding
